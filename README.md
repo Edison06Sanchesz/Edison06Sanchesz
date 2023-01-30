@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 Informacion
 Soy Edison Sanchez, tengo 22 años, actualmente estudiante de la carrera de software con conocimientos en java, php y dominio en base de datos centrado en el back end de los proyectos, ademas de estudiante tambien me dedico a soporte técnico de dispositivos móviles, computadoras e impresoras con 6 años de experiencia realizando trabajos garantizados.
+## 
 ![](https://media.giphy.com/media/OPYnG3Xf8zLag/giphy.gif)
